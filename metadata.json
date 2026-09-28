@@ -1,0 +1,6 @@
+{
+  "name": "ThreatLens - Autonomous AI Security & Risk Engine",
+  "description": "Autonomous AI leak prevention, neural threat interception, and real-time SecOps risk engine for enterprise workloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
